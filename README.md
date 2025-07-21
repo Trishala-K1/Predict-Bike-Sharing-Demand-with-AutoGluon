@@ -59,3 +59,10 @@ pip install jupyterlab
 
 ## License
 [License](LICENSE.txt)
+
+- Used Kaggle API and Pandas to load and preprocess data; engineered new features from datetime and weather data.
+- Conducted EDA with histograms and correlation heatmaps to guide feature selection.
+- Trained and tuned AutoGluon Tabular models, experimenting with hyperparameters and multiple algorithms (RF, KNN, XGBoost).
+- Visualized model metrics and Kaggle scores to track performance improvements over iterations.
+- Submitted predictions via Kaggle CLI; improved leaderboard rankings through iterative refinement.
+- Documented findings and hyperparameter impact in a detailed project report.
